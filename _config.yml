@@ -14,3 +14,4 @@ include:
 exclude:
   - bower_components
   - bower.json
+  - package.json
