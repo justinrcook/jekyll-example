@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll Example Site
 description: "Example site using Jekyll and Github Pages"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://jekyll-example.github.io" # the base hostname & protocol for your site
+baseurl: "/jekyll-example.github.io/" # the subpath of your site, e.g. /blog/
+url: "http://http://justinrcook.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
