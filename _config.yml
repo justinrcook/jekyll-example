@@ -13,6 +13,8 @@ include:
 
 exclude:
   - bower_components
+  - node_modules
   - bower.json
   - package.json
   - Gruntfile.coffee
+  - Rakefile
